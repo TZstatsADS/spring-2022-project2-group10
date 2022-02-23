@@ -4,7 +4,7 @@
 
 ![screenshot](app/www/logo-white.png)
 
-# Project Title Park Time shiny app
+# Project Title: Park Time shiny app
 Term: Spring 2022
 
 + Team 10
