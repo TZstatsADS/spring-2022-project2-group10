@@ -9,9 +9,9 @@ Term: Spring 2022
 
 + Team 10
 + **Park Time Shiny app**: + Team members
-	+ Patricia Song
-	+ Krista Zhang
-	+ Chang Lu
+	+ Peixuan Song (ps3193)
+	+ Krista Zhang (rz2559)
+	+ Chang Lu (cl4150)
 
 
 + **Project summary**: 
