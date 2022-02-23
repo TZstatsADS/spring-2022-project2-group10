@@ -20,6 +20,8 @@ In this project, we developed the Park Time app using R shiny, plus some common 
 
 There are three modules, each can help general users to quickly and efficiently know the NYC park data related to COVID-19 in different aspects.
 
+The shiny app can be find at (https://changlu2333.shinyapps.io/proj2/)
+
 + **Contribution statement**: ([default](doc/a_note_on_contributions.md)) 
 
 Patricia developed the Park Amenities page.
